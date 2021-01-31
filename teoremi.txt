@@ -1,0 +1,37 @@
+1. L’integrale curvilineo di prima specie esteso a curve equivalenti è invariante.
+2. Due curve equivalenti hanno la stessa lunghezza.
+3. Curvatura, curve biregolari, versore normale principale, il versore normale principale è ortogonale al versore tangente, versore binormale.
+4. Le formule di Frénet.
+5. Una funzione differenziabile in un punto è ivi continua e derivabile.
+6. Formula del gradiente.
+7. Il gradiente indica la direzione di massima crescita.
+8. Teorema del differenziale totale.
+9. Derivate seconde, matrice Hessiana, teorema di Schwarz.
+10. Formula di Taylor al secondo ordine con resto di Lagrange e di Peano.
+11. Teorema di Fermat.
+12. Criterio della matrice Hessiana per la classificazione dei punti critici.
+13. Teorema del Dini in R2.
+14. Teorema dei moltiplicatori di Lagrange in R2.
+15. Volume di solidi di rotazione.
+16. Integrale della Gaussiana.
+17. Integrale curvilineo di seconda specie su curve equivalenti (con lo stesso verso o con verso opposto)(*).
+18. Calcolo dell’integrale curvilineo di seconda specie di una forma differenziale esatta (o di un campo conservativo).
+19. Caratterizzazione delle forme differenziali esatte: una forma differenziale ha integrale nullo su ogni cammino chiuso se e solo se è esatta (o un campo vettoriale ha circuitazione nulla su ogni cammino chiuso se e solo se è conservativo).
+20. Una forma differenziale esatta è anche chiusa (o un campo conservativo è anche irrotazionale).
+21. Formule di Gauss-Green in domini normali regolari.
+22. Calcolo dell’area di regioni piane mediante le formule di Gauss-Green.
+23. Teorema sull’inversione dei limiti
+24. Teorema sulla continuità del limite.
+25. La convergenza totale implica quella uniforme (criterio di Weierstrass)(*).
+26. Sottoinsiemi chiusi, un sottoinsieme chiuso di uno spazio metrico completo è uno spazio metrico completo.
+27. Completezza di C 0 ([a, b]) con la distanza Lagrangiana.
+28. Teorema delle contrazioni.
+29. Una equazione in forma normale di ordine n si può ricondurre a un sistema di n equazioni del primo ordine.
+30. Formulazione integrale del problema di Cauchy.
+31. Teorema di Cauchy di esistenza ed unicità locale, regolarità della soluzione.
+32. Risoluzione di equazioni differenziali del primo ordine: lineari, a variabili separabili, di Bernoulli, omogenee, esatte.
+33. Linearità dell’applicazione associata e conseguenze.
+34. Teorema di esistenza ed unicità globale per sistemi.
+34. Struttura dell’integrale generale di sistemi differenziali omogenei e non omogenei.
+36. Rappresentazione delle soluzioni di sistemi omogenei con matrice dei coefficienti costante.
+37. Integrale generale di equazioni lineari del secondo ordine omogenee a coefficienti costanti.
