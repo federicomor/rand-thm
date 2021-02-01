@@ -44,3 +44,13 @@ for i in 1:l
 end
    
 close(cw)
+
+auguri=["Buona fortuna!",
+        "Buona dimostrazione, e non usare come scusa il fatto che ti manchi spazio sul margine del foglio.",
+        "Buon lavoro!",
+        "Dai che è semplice questo.",
+        "Cvd.", "Qed.", "Triviale.",
+        "Buono studio!"]
+
+la=length(auguri)
+print(auguri[t%la])
