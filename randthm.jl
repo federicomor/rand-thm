@@ -53,4 +53,4 @@ auguri=["Buona fortuna!",
         "Buono studio!"]
 
 la=length(auguri)
-print(auguri[t%la])
+print(auguri[t%la+1])
